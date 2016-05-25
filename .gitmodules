@@ -1,0 +1,3 @@
+[submodule "audio/recordings"]
+	path = audio/recordings
+	url = https://github.com/pierrebeauguitte/recordings.git
