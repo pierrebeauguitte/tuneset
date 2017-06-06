@@ -1,4 +1,4 @@
-This repository contains annotations of Irish Traditional Dance Music recordings. The dataset is presented in a conference paper, to be published at ISMIR 2016: http://wp.nyu.edu/ismir2016/
+This repository contains annotations of Irish Traditional Dance Music recordings. The publication accompanying this dataset is [A Corpus of Annotated Irish Traditional Dance Music Recordings: Design and Benchmark Evaluations](http://arrow.dit.ie/scschcomcon/177/), presented at  [ISMIR 2016](http://wp.nyu.edu/ismir2016/).
 
 Each line of the csv file is to be read as `onset, duration, MIDInote`.
 
